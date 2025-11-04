@@ -10,8 +10,9 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/arslansaeed/AI-Projects.git
+cd Diarization_Transcription
+
 ````
 
 ---
