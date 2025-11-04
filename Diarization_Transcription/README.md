@@ -1,6 +1,6 @@
 
 ````markdown
-# Speaker Diarization
+# Diarization_Transcription
 
 
 
@@ -120,7 +120,7 @@ pip freeze > requirements.txt
 
 * Never place `requirements.txt` inside the `venv/` folder.
 * Always activate the virtual environment before running your scripts.
-* For Python 3.13 users: ensure PyTorch, TorchVision, and Torchaudio versions are compatible.
+* For Python 3.11 users: ensure PyTorch, TorchVision, and Torchaudio versions are compatible.
 
 ```
 
