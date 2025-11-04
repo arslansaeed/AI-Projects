@@ -1,0 +1,64 @@
+# Python Bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# .env file (for environment variables)
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# Test Coverage
+.coverage
+*.cover
+*.hypothesis/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# PyCharm specific
+.idea/
+
+# Pylint configuration
+.pylint.d/
+
+# Mypy configuration
+.mypy_cache/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Local configuration files (e.g., for config files)
+local_config/
+
+# Node.js (if you're using Node.js for frontend or other tasks)
+node_modules/
+
+# Docker-related files
+.docker/
+
+# Secrets (e.g., API keys, credentials)
+*.pem
+*.key
+*.crt
+*.pfx

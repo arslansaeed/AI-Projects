@@ -1,0 +1,33 @@
+Speaker Diarization & Transcription
+==================================================
+
+SPEAKER_00 [0.0s - 2.0s]: Dr. Silver's office?
+SPEAKER_01 [2.0s - 4.5s]: Oh, I thought you opened at 10 o'clock a.m.
+SPEAKER_01 [4.5s - 6.2s]: But my wife said to try earlier.
+SPEAKER_01 [6.2s - 7.2s]: She was right.
+SPEAKER_01 [7.2s - 9.2s]: I was going to call you at lunch.
+SPEAKER_00 [9.2s - 12.3s]: Yes, people are always surprised that we are here so early.
+SPEAKER_00 [12.3s - 13.8s]: How can I help you, sir?
+SPEAKER_01 [13.8s - 16.5s]: I'd like to make an appointment to have a checkup, please.
+SPEAKER_00 [16.5s - 18.7s]: Okay, could I have your name, please?
+SPEAKER_01 [18.7s - 21.0s]: Yes, my name is Ian Conley.
+SPEAKER_00 [21.0s - 24.5s]: Mr. Conley, how about the day after tomorrow at 9.30?
+SPEAKER_01 [24.5s - 27.0s]: Um, would you have anything in the afternoon?
+SPEAKER_01 [27.0s - 29.0s]: I have a meeting Thursday morning.
+SPEAKER_00 [29.0s - 30.0s]: Okay.
+SPEAKER_00 [30.0s - 33.0s]: Um, we do have an opening that afternoon at 4.
+SPEAKER_00 [33.0s - 34.5s]: Would that be good for you?
+SPEAKER_01 [34.5s - 36.5s]: Yes, that would be just fine.
+SPEAKER_00 [36.5s - 38.0s]: Okay, Mr. Conley.
+SPEAKER_00 [38.0s - 41.0s]: While I have you on the line, could I just check a few things?
+SPEAKER_00 [41.0s - 42.5s]: Sure.
+SPEAKER_00 [42.5s - 47.0s]: Is your address still 2354 Logleer Street, apartment 11?
+SPEAKER_01 [47.0s - 49.0s]: Actually, ma'am, it's number 17.
+SPEAKER_00 [49.0s - 51.0s]: Okay, I'll change that.
+SPEAKER_00 [51.0s - 52.5s]: And your phone number?
+SPEAKER_00 [52.5s - 55.0s]: Is it 233-4-0-2-7?
+SPEAKER_01 [55.0s - 56.5s]: Yes, it is.
+SPEAKER_00 [56.5s - 58.0s]: Thank you, Mr. Conley.
+SPEAKER_00 [58.0s - 61.5s]: Alright, I have you down for a 4 o'clock on Thursday afternoon.
+SPEAKER_01 [61.5s - 63.5s]: Thanks, see you then.
+SPEAKER_00 [63.5s - 64.5s]: Bye.
