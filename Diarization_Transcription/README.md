@@ -24,19 +24,19 @@ It's recommended to use a virtual environment to isolate dependencies.
 **Windows (PowerShell):**
 
 ```powershell
-python -m venv venv
+py -3.11 -m venv venv
 ```
 
 **Windows (cmd):**
 
 ```cmd
-python -m venv venv
+py -3.11 -m venv venv
 ```
 
 **macOS / Linux:**
 
 ```bash
-python3 -m venv venv
+py -3.11 -m venv venv
 ```
 
 This will create a folder named `venv` in your project directory.
