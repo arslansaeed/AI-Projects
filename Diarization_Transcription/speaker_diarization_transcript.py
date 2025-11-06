@@ -327,9 +327,15 @@ def main():
             os.remove(wav_file)
             print(f"🗑️  Cleaned up: {wav_file}")
 
+def diarize_and_transcribe(audio_file: str, output_file: str = "transcript_with_speakers.txt"):
+    Config.AUDIO_FILE = audio_file
+    Config.OUTPUT_FILE = output_file
+    main()
+    
 
 if __name__ == "__main__":
     main()
+
 
 
 
